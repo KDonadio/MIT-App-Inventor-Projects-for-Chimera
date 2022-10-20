@@ -18,5 +18,5 @@ There are several projects here which were created using MIT App Inventor.
 <br>
 <br>
 Recently there has been an issue with Android 12 OS as it uses different permissions than prior versions. This renders the current BLE extension broken - but I have a work around. It actually checks for Android 12 and sets the permissions.
-This works for now but Evan at MIT told me they will be releasing a new BE extension very soon to take care of this issue. To use the work around another extension is used - GetApiLevel.
+This works for now but Evan at MIT told me they will be releasing a new BLE extension very soon to take care of this issue. To use the work around another extension is used - GetApiLevel.
 
